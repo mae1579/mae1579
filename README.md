@@ -13,7 +13,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apimae1579anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/apimae1579anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>
