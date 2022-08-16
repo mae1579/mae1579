@@ -51,6 +51,7 @@
 
 <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mae1579&show_icons=true&locale=en&layout=compact" alt="mae1579" /></p>
+  <br>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=maroongold" alt="mae1579" /></p>
 </div>
 
