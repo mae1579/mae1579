@@ -5,7 +5,10 @@
 
 
 
-
+<br>
+<br>
+<br>
+<br>
 
 
 - 🔭 I’m currently working on [Head-Hunters MegaK](https://github.com/patrycja-dev41171/megak-headhunter-6-backend/tree/develop)
@@ -17,7 +20,9 @@
 - ⚡ Fun fact **I love watching football**
 
 
-
+<br>
+<br>
+<br>
 
 
 
@@ -26,7 +31,9 @@
 
 
 
-
+<br>
+<br>
+<br>
 
 
 
@@ -39,12 +46,17 @@
 </p>
 
 
-
+<br>
+<br>
 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mae1579&show_icons=true&locale=en&layout=compact" alt="mae1579" /></p>
+<br>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=maroongold" alt="mae1579" /></p>
+<br>
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mae1579&" alt="mae1579" /></p>
