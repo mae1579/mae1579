@@ -42,7 +42,7 @@
 <a href="https://linkedin.com/in/mateusz umięcki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateusz umięcki" height="30" width="40" /></a>
 </p>
 <br>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=maroongold" alt="mae1579" /></p>
+  <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=maroongold" alt="mae1579" /></p>
 
 
 
