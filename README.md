@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateusz Umięcki</h1>
 <h3 align="center">I program in java script in node.js I use express.js, react.js, typescript, Sql, mongoDB.My passion is programming and football, I also read a lot of books</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mae1579&label=Profile%20views&color=0e75b6&style=flat" alt="mae1579" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mae1579" alt="mae1579" /></a> </p>
 
 - 🔭 I’m currently working on [Head-Hunters MegaK](https://github.com/patrycja-dev41171/megak-headhunter-6-backend/tree/develop)
 
